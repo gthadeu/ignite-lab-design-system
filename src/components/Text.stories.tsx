@@ -5,7 +5,7 @@ export default {
     title: 'Components/Text',
     component: Text,
     args: {
-        children: 'Lorem ispum.',
+        children: 'Lorem ispum solem.',
         size: 'md',
     },
     argTypes: {
